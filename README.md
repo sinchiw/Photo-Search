@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+##Main purpose
+This app allows to user to search for any images from unsplash api and display it nicely on the screen regardless of the size.  
+
 In the project directory, you can run:
 
 ### `npm start`
